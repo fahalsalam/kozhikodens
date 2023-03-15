@@ -1,0 +1,2 @@
+# kozhikodens
+kozhikodens static website
